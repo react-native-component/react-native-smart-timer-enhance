@@ -19,7 +19,7 @@ import React, {
     Component,
 } from 'react'
 
-import TimerEnhance from '../../react-native-smart-timer-enhance'
+import TimerEnhance from 'react-native-smart-timer-enhance'
 
 class TimerEnhanceDemo extends Component {
 
