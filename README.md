@@ -4,4 +4,4 @@ A TimerEnhance for React Native app (es6) which replaced TimerMixin (es5) provid
 Inspired by [react-timer-mixin][0]
 
 
-[0] https://github.com/reactjs/react-timer-mixin
+[0]: https://github.com/reactjs/react-timer-mixin
