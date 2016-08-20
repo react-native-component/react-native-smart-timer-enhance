@@ -45,3 +45,5 @@ class TimerEnhanceDemo extends Component {
 
 export default TimerEnhance(TimerEnhanceDemo)
 ```
+
+[0]: https://github.com/reactjs/react-timer-mixin
