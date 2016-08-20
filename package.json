@@ -1,5 +1,5 @@
 {
-  "name": "react-native-smart-timer-enhance",
+  "name": "@react-native-component/react-native-smart-timer-enhance",
   "version": "1.0.0",
   "description": " A TimerEnhance for React Native app (es6) which replaced TimerMixin (es5) provides timer functions for executing code in the future that are safely cleaned up when the component unmounts",
   "main": "TimerEnhance.js",
