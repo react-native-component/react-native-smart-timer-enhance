@@ -9,6 +9,10 @@ Inspired by [react-timer-mixin][0]
 npm install react-native-smart-timer-enhance --save
 ```
 
+## Full Demo
+
+see [ReactNativeComponentDemos][1]
+
 ## Usage
 
 Install the TimerEnhance from npm with `npm install react-native-smart-timer-enhance --save`.
@@ -47,3 +51,4 @@ export default TimerEnhance(TimerEnhanceDemo)
 ```
 
 [0]: https://github.com/reactjs/react-timer-mixin
+[1]: https://github.com/cyqresig/ReactNativeComponentDemos
