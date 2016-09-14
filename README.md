@@ -1,4 +1,10 @@
 # react-native-smart-timer-enhance
+
+[![npm](https://img.shields.io/npm/v/react-native-smart-timer-enhance.svg)](https://www.npmjs.com/package/react-native-smart-timer-enhance)
+[![npm](https://img.shields.io/npm/dm/react-native-smart-timer-enhance.svg)](https://www.npmjs.com/package/react-native-smart-timer-enhance)
+[![npm](https://img.shields.io/npm/dt/react-native-smart-timer-enhance.svg)](https://www.npmjs.com/package/react-native-smart-timer-enhance)
+[![npm](https://img.shields.io/npm/l/react-native-smart-timer-enhance.svg)](https://github.com/react-native-component/react-native-smart-timer-enhance/blob/master/LICENSE)
+
 A TimerEnhance for React Native app (es6) which replaced TimerMixin (es5) provides timer functions for executing code in the future that are safely cleaned up when the component unmounts
 
 Inspired by [react-timer-mixin][0]
