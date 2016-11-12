@@ -1,6 +1,6 @@
 /*
  * A TimerEnhance for React Native app (es6) which replaced TimerMixin (es5)
- * provtimerIdes timer functions for executing code in the future that are safely cleaned up when the component unmounts
+ * provides timer functions for executing code in the future that are safely cleaned up when the component unmounts
  * https://github.com/react-native-component/react-native-smart-timer-enhance/
  * Released under the MIT license
  * Copyright (c) 2016 react-native-component <moonsunfall@aliyun.com>
